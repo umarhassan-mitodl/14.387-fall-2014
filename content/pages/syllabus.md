@@ -15,7 +15,7 @@ Lectures: 2 sessions / week, 1.5 hours / session
 
 ## Prerequisites
 
-{{% resource_link "9a0dbd5f-a551-4f5c-8630-859db72d20d0" "_14.382 Econometrics_" %}} 
+[_14.382 Econometrics_](https://ocw.mit.edu/courses/economics/14-382-econometrics-spring-2017/) 
 
 is the prerequisite for this course.
 
@@ -25,13 +25,13 @@ Students are expected to do the readings. In addition, there are three graded pr
 
 ## Text
 
-Angrist, J. D., and J. S. Pischke. _Mostly Harmless Econometrics: An Empiricist's Companion_. Princeton University Press, 2009. ISBN: 9780691120355. \[Preview with {{% resource_link "0d24cb0c-f25e-4563-b5f5-f3b6fa830285" "Google Books" %}}\]
+Angrist, J. D., and J. S. Pischke. _Mostly Harmless Econometrics: An Empiricist's Companion_. Princeton University Press, 2009. ISBN: 9780691120355. \[Preview with [Google Books](http://books.google.com/books?id=ztXL21Xd8v8C&pg=PAfrontcover)\]
 
 Basic and review material for the first two-thirds of the course come mostly from this book. A few core and frontier articles are also listed for each topic.
 
 ## Instructors
 
-This course is co-taught by {{% resource_link "28161bef-d4d6-4f4d-9012-1c4c06ade4af" "Prof. Joshua Angrist" %}} and {{% resource_link "afde0a64-61df-493e-845b-c7cae523359d" "Prof. Victor Chernozhukov" %}}. Prof Angrist teaches topics I–VII. Prof. Chernozhukov's section begins at topic VIII.
+This course is co-taught by [Prof. Joshua Angrist](http://economics.mit.edu/faculty/angrist) and [Prof. Victor Chernozhukov](http://www.mit.edu/~vchern/). Prof Angrist teaches topics I–VII. Prof. Chernozhukov's section begins at topic VIII.
 
 ## Topics
 
