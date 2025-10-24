@@ -36,7 +36,7 @@ Mostly my audience is headed for careers in research - either in academia, gover
 
 ## Instructor Interview
 
-_In the column, “_{{% resource_link "b0526aaf-11ed-4dcd-bdc5-d0a3eb16759e" "_Mastering Metrics: Teaching Econometrics_" %}}_,” Prof. Angrist and Jörn-Steffen Pischke wrote about the need to "overhaul" econometrics pedagogy. Below, Prof. Angrist shares aspects of his pedagogical practice in_ 14.387 Applied Econometric: Mostly Harmless Big Data.
+_In the column, “_[_Mastering Metrics: Teaching Econometrics_](http://www.voxeu.org/article/mastering-metrics-teaching-econometrics)_,” Prof. Angrist and Jörn-Steffen Pischke wrote about the need to "overhaul" econometrics pedagogy. Below, Prof. Angrist shares aspects of his pedagogical practice in_ 14.387 Applied Econometric: Mostly Harmless Big Data.
 
 We try to keep the content real by using authentic empirical questions that can be answered with real data. We think logically, not abstractly.
 
@@ -70,7 +70,7 @@ The course features three graded problem sets, which had to be submitted on time
 
 ### Typical Student Background
 
-Most students were from Ph.D. or professional schools (like the Harvard Kennedy School). We typically get some precocious research assistants. Most of JPAL's ({{% resource_link "3df2523d-ffbc-4990-b424-9dccc76cd230" "Abdul Latif Jameel Poverty Action Lab" %}}) local full-timers seem now to take the course. SEII ({{% resource_link "05331502-032b-4652-ad31-3b4771935a74" "School of Effectiveness & Inequality Initiative" %}}) full-timers also take the course. 
+Most students were from Ph.D. or professional schools (like the Harvard Kennedy School). We typically get some precocious research assistants. Most of JPAL's ([Abdul Latif Jameel Poverty Action Lab](http://www.povertyactionlab.org/)) local full-timers seem now to take the course. SEII ([School of Effectiveness & Inequality Initiative](http://seii.mit.edu/about/)) full-timers also take the course. 
 
 Many students have read at least some of the Angrist and Pischke book(s). These provide a good screen. If you like that stuff, and find it accessible and relevant, you'll like the course.
 
